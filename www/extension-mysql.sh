@@ -3,7 +3,7 @@
 echo “Agregando extension PHP para MySQL”
 
 #Instalar extension
-#docker-php-ext-install mysqli
+docker-php-ext-install mysqli
 
 #Directorio php init 
 cd /usr/local/etc/php
